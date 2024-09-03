@@ -5,3 +5,6 @@ Please implement encode and decode
 '''
 
 class Solution:
+        def def encode(self, strs: List[str]) -> str:
+
+        def decode(self, s: str) -> List[str]:
