@@ -1,0 +1,16 @@
+[1324:6648:0110/183955.120:WARNING:chrome_main_delegate.cc(672)] This is Chrome version 131.0.6778.206 (not a warning)
+[1324:6648:0110/183955.224:INFO:chrome_browser_cloud_management_controller.cc(196)] No machine level policy manager exists.
+[14292:1788:0110/183956.246:WARNING:viz_main_impl.cc(85)] VizNullHypothesis is disabled (not a warning)
+[14292:1788:0110/183956.252:ERROR:direct_composition_support.cc(1034)] QueryInterface to IDCompositionDevice4 failed: No such interface supported (0x80004002)
+[14292:12064:0110/183957.691:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
+C:\fakepath(130,3-70): warning X3557: loop only executes for 1 iteration(s), forcing loop to unroll
+
+[1324:6648:0110/184002.310:INFO:CONSOLE(156)] "Event handler of 'x-storagemutated-1' event must be added on the initial evaluation of worker script.", source: https://static.whatsapp.net/rsrc.php/v4/y9/r/i-KWhGvdMXm.js (156)
+[1324:6648:0110/184012.405:WARNING:controller_impl.cc(1192)] Background download complete, client: 6, completion type: 0, file size:265059
+[1324:6648:0110/184013.406:WARNING:controller_impl.cc(1192)] Background download complete, client: 6, completion type: 0, file size:5157
+[1324:6648:0110/184013.499:WARNING:controller_impl.cc(1192)] Background download complete, client: 6, completion type: 0, file size:883094
+[1324:6648:0110/184014.395:WARNING:controller_impl.cc(1192)] Background download complete, client: 6, completion type: 0, file size:45168
+[1324:6648:0110/184016.514:WARNING:controller_impl.cc(1192)] Background download complete, client: 6, completion type: 0, file size:2747168
+[1324:6648:0110/184017.418:WARNING:controller_impl.cc(1192)] Background download complete, client: 6, completion type: 0, file size:2200227
+[1324:6648:0110/184017.576:WARNING:controller_impl.cc(1192)] Background download complete, client: 6, completion type: 0, file size:4680
+[1324:6648:0110/184017.939:WARNING:controller_impl.cc(1192)] Background download complete, client: 6, completion type: 0, file size:118577
