@@ -30,6 +30,9 @@ class Pro(Ashawo):
         else:
             print("Retired")
 
+class Retired(Ashawo):
+    def
+
 
 kay = Ashawo("Kaydee",21, True, 3)
 kay.current_status()
