@@ -31,7 +31,7 @@ class Pro(Ashawo):
             print("Retired")
 
 class Retired(Ashawo):
-    def
+    def __init__(self):
 
 
 kay = Ashawo("Kaydee",21, True, 3)
