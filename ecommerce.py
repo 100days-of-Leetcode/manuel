@@ -48,6 +48,7 @@ jacket = Clothing("C001", "Winter Jacket", 200.0, "M", 20.0)
 laptop.apply_discount(10)
 print(f"Final Price of Laptop: {laptop.calculate_final_price()}")
 print(f"Final Price of Winter Jacket: {jacket.calculate_final_price()}")
+
 cart = Cart()
 cart.add_product(laptop)
 cart.add_product(jacket)
