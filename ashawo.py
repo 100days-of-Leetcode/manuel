@@ -33,6 +33,7 @@ class Pro(Ashawo):
 
 kay = Ashawo("Kaydee",21, True, 3)
 kay.current_status()
+kay.show_streak()
 
 drew = Ashawo("Drew", 21, True, 5)
 drew.current_status()
