@@ -35,7 +35,8 @@ class Clothing(Product):
 class Cart:
     def __init__(self):
         self.products = []
-        def add_product(self, product):
+
+    def add_product(self, product):
             self.products.append(product)
 
     def calculate_total_price(self):
@@ -50,6 +51,6 @@ print(f"Final Price of Laptop: {laptop.calculate_final_price()}")
 print(f"Final Price of Winter Jacket: {jacket.calculate_final_price()}")
 
 cart = Cart()
-cart.add_product(laptop)
-cart.add_product(jacket)
+cart.add_product(Electronics)
+cart.add_product(Clothing)
 print(f"Total Price of Products in Cart: {cart.calculate_total_price()}")
