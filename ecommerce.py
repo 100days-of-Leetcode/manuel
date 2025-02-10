@@ -36,7 +36,7 @@ class Cart:
     def __init__(self):
         self.products = []
         def add_product(self, product):
-        self.products.append(product)
+            self.products.append(product)
 
     def calculate_total_price(self):
         total_price = sum(product.calculate_final_price() for product in
