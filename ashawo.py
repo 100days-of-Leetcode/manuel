@@ -31,7 +31,7 @@ class Pro(Ashawo):
             print("Retired")
 
 
-
+kay
 drew = Ashawo("Drew", 21, True, 5)
 drew.current_status()
 drew.show_streak()
