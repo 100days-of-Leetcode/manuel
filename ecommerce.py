@@ -51,6 +51,6 @@ print(f"Final Price of Laptop: {laptop.calculate_final_price()}")
 print(f"Final Price of Winter Jacket: {jacket.calculate_final_price()}")
 
 cart = Cart()
-cart.add_product(Electronics)
-cart.add_product(Clothing)
+cart.add_product(laptop)
+cart.add_product(jacket)
 print(f"Total Price of Products in Cart: {cart.calculate_total_price()}")
