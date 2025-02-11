@@ -46,6 +46,7 @@ class Cart:
 
 laptop = Electronics("E001", "Laptop", 1000.0, 24)
 jacket = Clothing("C001", "Winter Jacket", 200.0, "M", 20.0)
+phone = Electronics("POO1", "Apple XR", 1599, 2)
 laptop.apply_discount(10)
 print(f"Final Price of Laptop: {laptop.calculate_final_price()}")
 print(f"Final Price of Winter Jacket: {jacket.calculate_final_price()}")
@@ -53,4 +54,5 @@ print(f"Final Price of Winter Jacket: {jacket.calculate_final_price()}")
 cart = Cart()
 cart.add_product(laptop)
 cart.add_product(jacket)
+cart.add_product(phone)
 print(f"Total Price of Products in Cart: {cart.calculate_total_price()}")
