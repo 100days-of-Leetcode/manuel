@@ -56,3 +56,4 @@ cart.add_product(laptop)
 cart.add_product(jacket)
 cart.add_product(phone)
 print(f"Total Price of Products in Cart: {cart.calculate_total_price()}")
+priny
