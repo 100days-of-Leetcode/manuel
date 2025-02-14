@@ -2,11 +2,19 @@ class Person {
     public string Name;
     public int Age;
 
+    public Person(string name){
+         Name = name
+    }
+
+    pu
+
     public void Greet(){
         Console. WriteLine($"Hi, my name is {Name} and I am {Age}")
     }
+
 }
 
 Person p1 = new Person();
 p1.Name = "Alice"
 p1.Age = 34
+
