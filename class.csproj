@@ -3,10 +3,12 @@ class Person {
     public int Age;
 
     public Person(string name){
-         Name = name
+         Name = name;
     }
 
-    pu
+    public Person(int age){
+         Age = age;
+    }
 
     public void Greet(){
         Console. WriteLine($"Hi, my name is {Name} and I am {Age}")
