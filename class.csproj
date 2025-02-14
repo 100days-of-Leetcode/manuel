@@ -10,6 +10,11 @@ class Person {
          Age = age;
     }
 
+    public string Name{
+         get { return salary }
+         set {name = "Bright"}
+    }
+
     public void Greet(){
         Console. WriteLine($"Hi, my name is {Name} and I am {Age}")
     }
@@ -19,4 +24,6 @@ class Person {
 Person p1 = new Person();
 p1.Name = "Alice"
 p1.Age = 34
+
+
 
