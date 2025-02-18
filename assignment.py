@@ -60,7 +60,7 @@ class BasePlusCommissionEmployee(CommissionEmployee):
 
 emp1 = CommissionEmployee("Daniel", "Akaba", 34343422, 145072.0,0.25)
 emp1.display_employee()
-emp1.
+emp1.display_employee()
 print(emp1.earnings())
 
 emp2 = BasePlusCommissionEmployee ("Abena", "Joyce", 23443545, 433342, 0.24, 3000)
